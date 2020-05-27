@@ -1,4 +1,3 @@
-
 module top(
   input clock_12mhz,
   output reg[7:0] led
